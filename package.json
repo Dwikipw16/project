@@ -14,5 +14,16 @@
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwikipw16/project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dwikipw16/project/issues"
+  },
+  "homepage": "https://github.com/Dwikipw16/project#readme",
   "description": ""
 }
